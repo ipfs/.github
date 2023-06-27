@@ -8,10 +8,10 @@ Exceptionally talented open communities are building the future of the decentral
 
 ### Documentation
 
-- [IPFS Docs](https://docs.ipfs.tech/)
-- [IPFS Specs](https://specs.ipfs.tech/)
-- [Getting Started](https://ipfs.tech/#install)
 - [How IPFS Works](https://ipfs.tech/#how)
+- [Getting Started](https://ipfs.tech/#install)
+- [Documentation Portal](https://docs.ipfs.tech/)
+- [Specs for Implementers](https://specs.ipfs.tech/)
 
 ### Implementations
 
