@@ -15,8 +15,8 @@ Exceptionally talented open communities are building the future of the decentral
 
 ### Implementations
 
-- [kubo (go)](https://github.com/ipfs/kubo)
-- [helia (JS)](https://github.com/ipfs/helia)
+- [Kubo (Go)](https://github.com/ipfs/kubo)
+- [Helia (JS)](https://github.com/ipfs/helia)
 
 ### Explore
 
