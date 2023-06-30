@@ -4,7 +4,7 @@
 
 The InterPlanetary File System (IPFS) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring [content-addressed data](https://docs.ipfs.tech/concepts/glossary/#content-addressing) in a decentralized file system. Many popular Web3 projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for a list of some of these projects.
 
-Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! Join the movement! Get involved today!
+Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
 
 ### Documentation
 
@@ -17,6 +17,7 @@ Exceptionally talented open communities are building the future of the decentral
 
 - [Kubo (Go)](https://github.com/ipfs/kubo)
 - [Helia (JS)](https://github.com/ipfs/helia)
+- and [more!](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained)
 
 ### Explore
 
