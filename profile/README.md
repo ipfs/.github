@@ -7,6 +7,10 @@ Exceptionally talented open communities are building the future of the decentral
 ## Resrouces
 
 - [Docs](https://docs.ipfs.tech/)
+- [IPFS Forums](https://discuss.ipfs.tech/)
+- [IPFS Blog](https://blog.ipfs.tech/)
+- [Community Calendar](https://lu.ma/ipfs)
+- [Specs for Implementers](https://specs.ipfs.tech/)
 
 ### Quickstarts
 
@@ -19,16 +23,9 @@ Exceptionally talented open communities are building the future of the decentral
 - [IPFS and the problems it solves](https://docs.ipfs.tech/concepts/ipfs-solves/)
 - [How IPFS Works](https://docs.ipfs.tech/concepts/how-ipfs-works/)
 
-### Specs
-- [Specs for Implementers](https://specs.ipfs.tech/)
-
 ### Implementations
 
 - [Kubo (Go)](https://github.com/ipfs/kubo)
 - [Helia (JS)](https://github.com/ipfs/helia)
 - and [more!](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained)
 
-### Explore
-
-- [IPFS Forums](https://discuss.ipfs.tech/)
-- [IPFS Blog](https://blog.ipfs.tech/)
