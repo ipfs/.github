@@ -1,6 +1,6 @@
 # IPFS is an open system to manage data without a central server
 
-[The InterPlanetary File System (IPFS)](https://ipfs.tech) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring [content-addressed data](https://docs.ipfs.tech/concepts/glossary/#content-addressing) in a decentralized file system. Many popular Web3 projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for a list of some of these projects.
+IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. Many popular Web3 projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for some of these projects.
 
 Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
 
