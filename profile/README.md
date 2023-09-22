@@ -1,16 +1,25 @@
-<p align="center">
-  <img src="https://github.com/ipfs/.github/blob/main/profile/ipfs-powered.png" width="100%" alt="IPFS Powered">
-</p>
+# IPFS is an open system to manage data without a central server
 
 The InterPlanetary File System (IPFS) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring [content-addressed data](https://docs.ipfs.tech/concepts/glossary/#content-addressing) in a decentralized file system. Many popular Web3 projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for a list of some of these projects.
 
 Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
 
-### Documentation
+## Resrouces
 
-- [How IPFS Works](https://ipfs.tech/#how)
-- [Getting Started](https://ipfs.tech/#install)
-- [Documentation Portal](https://docs.ipfs.tech/)
+- [Docs](https://docs.ipfs.tech/)
+
+### Quickstarts
+
+- [Publish with IPFS](https://docs.ipfs.tech/quickstart/publish)
+- [Retrieve CIDs with IPFS](https://docs.ipfs.tech/quickstart/retrieve)
+
+### Concepts
+
+- [What is IPFS?](https://docs.ipfs.tech/concepts/what-is-ipfs/)
+- [IPFS and the problems it solves](https://docs.ipfs.tech/concepts/ipfs-solves/)
+- [How IPFS Works](https://docs.ipfs.tech/concepts/how-ipfs-works/)
+
+### Specs
 - [Specs for Implementers](https://specs.ipfs.tech/)
 
 ### Implementations
