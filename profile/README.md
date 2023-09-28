@@ -2,7 +2,7 @@
 
 IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. Many projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for some of these projects.
 
-Want to connect with the IPFS community? The [IPFS Docs Community page](https://docs.ipfs.tech/community/) lists various ways to find the thousands of participants and contributors who are helping to build a better web. 
+Want to connect with the IPFS community? The [IPFS Community page](https://ipfs.tech/community/) lists various ways to find the thousands of participants and contributors helping build a better web. 
 
 Want to contribute to IPFS? These [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support!
 
