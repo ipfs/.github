@@ -4,7 +4,7 @@ IPFS is a modular suite of protocols for addressing, routing, and transferring d
 
 Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
 
-## Resrouces
+## Resources
 
 - [Docs](https://docs.ipfs.tech/)
 - [IPFS Forums](https://discuss.ipfs.tech/)
