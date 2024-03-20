@@ -25,7 +25,8 @@ Exceptionally talented open communities are building the future of the decentral
 
 ### Implementations
 
-- [Kubo (Go)](https://github.com/ipfs/kubo)
-- [Helia (JS)](https://github.com/ipfs/helia)
+- Libraries: [Boxo (Go SDK)](https://github.com/ipfs/boxo), [Helia (JS SDK)](https://github.com/ipfs/helia)
+- Daemons: [Kubo (All-purpose, batteries-included IPFS Node)](https://github.com/ipfs/kubo), [Rainbow (Standalone Gateway)](https://github.com/ipfs/rainbow/), [Someguy (Standalone Router)](https://github.com/ipfs-shipyard/someguy),  [IPFS Cluster (enterprise scale)](https://ipfscluster.io/), 
+- GUIs: [Desktop App](https://github.com/ipfs/ipfs-desktop/), [Companion Browser Extension](https://github.com/ipfs/ipfs-companion)
 - and [more!](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained)
 
