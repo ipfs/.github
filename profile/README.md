@@ -14,7 +14,6 @@ Exceptionally talented open communities are building the future of the decentral
 
 ### Quickstarts
 
-- [Publish with IPFS](https://docs.ipfs.tech/quickstart/publish)
 - [Retrieve CIDs with IPFS](https://docs.ipfs.tech/quickstart/retrieve)
 
 ### Concepts
