@@ -1,6 +1,6 @@
-# IPFS is an open system to manage data without a central server
+# Building blocks for a better web
 
-IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. Many popular Web3 projects are built on IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) for some of these projects.
+IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. Many popular projects are built with IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) and [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) for some of these projects.
 
 Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
 
@@ -10,11 +10,13 @@ Exceptionally talented open communities are building the future of the decentral
 - [IPFS Forums](https://discuss.ipfs.tech/)
 - [IPFS Blog](https://blog.ipfs.tech/)
 - [Community Calendar](https://lu.ma/ipfs)
-- [Specs for Implementers](https://specs.ipfs.tech/)
+- [Specifications for Implementers](https://specs.ipfs.tech/)
+- [YouTube Channel](https://www.youtube.com/ipfsbot)
 
 ### Quickstarts
 
 - [Retrieve CIDs with IPFS](https://docs.ipfs.tech/quickstart/retrieve)
+- [Deploy Static Apps to IPFS with GitHub Actions](https://docs.ipfs.tech/how-to/websites-on-ipfs/deploy-github-action/)
 
 ### Concepts
 
