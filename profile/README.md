@@ -1,8 +1,10 @@
 # Building blocks for a better web
 
-IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. Many popular projects are built with IPFS - see the [ecosystem directory](https://ecosystem.ipfs.tech/) and [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) for some of these projects.
+IPFS is a modular suite of protocols for addressing, routing, and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking. We believe in open and resilient networks that belong to the users. These are the building blocks to make that possible.
 
-Exceptionally talented open communities are building the future of the decentralized web. Excellent [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues) need your attention and support! [Join the movement! Get involved today!](https://docs.ipfs.tech/community/)
+You can find a wide array of real-world projects built with IPFS in the [ecosystem directory](https://ecosystem.ipfs.tech/) and [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) list.
+
+**Want to contribute?** Here are some good places to start: [join a forum discussion](https://discuss.ipfs.tech/) or [community event](https://lu.ma/ipfs), file an issue directly in the relevant repo, or check out the [good first issues](https://github.com/search?q=org%3Aipfs+label%3A%22good+first+issue%22%2C%22help+wanted%22&type=issues).
 
 ## Resources
 
